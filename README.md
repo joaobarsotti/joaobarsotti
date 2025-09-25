@@ -1,7 +1,7 @@
 <table border="0px">
   <tr>
     <td valign="top" width="50%">
-Olá, meu nome é João Pedro Barsotti, atualmente estou cursando o 6° Semestre da graduaçõ de Ciências da Computação, 
+Olá, meu nome é João Pedro Barsotti, atualmente estou cursando o 6° Semestre da graduação de Ciências da Computação, 
 pelo Centro Universitário Padre Anchieta.
 
    </td>
